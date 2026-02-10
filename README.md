@@ -21,7 +21,7 @@ Whether you're a beginner writing your first lines of code or an experienced dev
 - Students and beginners in programming  
 - Software developers and engineers  
 - Tech enthusiasts and open-source contributors  
-- Anyone passionate about coding and technology  
+- Anyone passionate about coding and 
 
 ---
 
