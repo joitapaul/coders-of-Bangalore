@@ -10,7 +10,7 @@ Whether you're a beginner writing your first lines of code or an experienced dev
 ## 🌟 Objectives
 
 - Build a strong coding community in Bangalore  
-- Encourage peer learning and collaboration  
+- Encourage peer learning and collaboration  with the help of pytorch
 - Share knowledge through projects, discussions, and resources  
 - Support beginners and promote open-source contributions  
 
