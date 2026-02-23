@@ -1,5 +1,5 @@
 # coders-of-Bangalore
-# 🚀 Coders of Bangalore
+
 
 **Coders of Bangalore** is a community-driven initiative focused on bringing together developers, programmers, and tech enthusiasts from Bangalore to learn, build, and grow together.
 
