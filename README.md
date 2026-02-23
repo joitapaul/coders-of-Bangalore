@@ -8,7 +8,7 @@ Whether you're a beginner writing your first lines of code or an experienced dev
 ---
 
 ## 🌟 Objectives
-
+# 🚀 Coders of Bangalore
 - Build a strong coding community in Bangalore  
 - Encourage peer learning and collaboration  
 - Share knowledge through projects, discussions, and resources  
